@@ -1,5 +1,6 @@
 # Agent 967: A VR Evidence Disposal Game
 ## [Play Now (Non-VR)](https://jwcain.github.io/Agent967/)
+## [VR Playtesting Footage](https://www.youtube.com/watch?v=k6NbXZxOXsc) 
 ## Pitch
 You work for the Super Secret Service. Triple-S, as it is called, is an elite and dangerous group; responsible for espionage and heroism all over the world. Their Agents are known for being glamorous, seductive, charming, smart, good-looking, respectable parents, and always on time.
 
@@ -15,5 +16,3 @@ Agent#967 is a VR task-management/chaos game in which the player has to find opt
 I developed this project to help improve my understanding of commercial level VR technology as well as the development of a VR products for consumers. It was completed as a final project for a VR course at MTU under the supervision of notable VR researcher [Dr. Scott Kuhl] (https://www.mtu.edu/cs/department/faculty-staff/faculty/kuhl/).
 
 The mindset I took while developing this project was very much that of a prototype. I was seeking to gain experience in the area, not necessarily to show mastery or develop a publishable product. This lead to developing in a "code now, fix later" manner, featuring many iteraction cycles as I tried to include new theories or concepts as we discussed them in class.
-
-Video on a VR playtesting session [can be viewed here](https://www.youtube.com/watch?v=k6NbXZxOXsc) or you can play a Non-VR version of the game yourself
