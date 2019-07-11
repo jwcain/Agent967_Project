@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.agent967.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\jwcain\\Desktop\\Agent967\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Agent967 [Testing]"
+        }
+      }
+    }
+  ]
+}
