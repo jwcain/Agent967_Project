@@ -13,6 +13,6 @@ Agent#967 is a VR task-management/chaos game in which the player has to find opt
 
 ## Development
 
-I developed this project to help improve my understanding of commercial level VR technology as well as the development of a VR products for consumers. It was completed as a final project for a VR course at MTU under the supervision of notable VR researcher [Dr. Scott Kuhl] (https://www.mtu.edu/cs/department/faculty-staff/faculty/kuhl/).
+I developed this project to help improve my understanding of commercial level VR technology as well as the development of a VR products for consumers. It was completed as a final project for a VR course at MTU under the supervision of notable VR researcher [Dr. Scott Kuhl](https://www.mtu.edu/cs/department/faculty-staff/faculty/kuhl/).
 
 The mindset I took while developing this project was very much that of a prototype. I was seeking to gain experience in the area, not necessarily to show mastery or develop a publishable product. This lead to developing in a "code now, fix later" manner, featuring many iteraction cycles as I tried to include new theories or concepts as we discussed them in class.
