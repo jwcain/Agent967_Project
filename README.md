@@ -1,4 +1,5 @@
-# Agent 967: An Evidence Disposal Game
+# Agent 967: A VR Evidence Disposal Game
+## [Play Now (Non-VR)](https://jwcain.github.io/Agent967/)
 ## Pitch
 You work for the Super Secret Service. Triple-S, as it is called, is an elite and dangerous group; responsible for espionage and heroism all over the world. Their Agents are known for being glamorous, seductive, charming, smart, good-looking, respectable parents, and always on time.
 
@@ -7,8 +8,12 @@ Unfortunately, while you are a new Agent for Triple-S, you are not one of those 
 ## Overview
 Agent#967 is a VR task-management/chaos game in which the player has to find optimal routes for disposing of ‘evidence’ into specified receptacles. The game takes place in a medium sized office, and in lieu of a desk, there is a conveyor belt that brings evidence into the room. Posted on the wall is a list of instructions on where each type of item needs to go; filed away, shredded, incinerated, dropped in acid, etc. The location of the disposal locations and the destination for each type of evidence changes each level.
 
-Developing this project will help improve understanding of commercial level VR technology as well as the development of a VR product for consumers. Both of these are sought after skills in the game development industry, and completion of the project would be a beneficial improvement to a student’s resume looking to enter this field.
+
 
 ## Development
 
-...
+I developed this project to help improve my understanding of commercial level VR technology as well as the development of a VR products for consumers. It was completed as a final project for a VR course at MTU under the supervision of notable VR researcher [Dr. Scott Kuhl] (https://www.mtu.edu/cs/department/faculty-staff/faculty/kuhl/).
+
+The mindset I took while developing this project was very much that of a prototype. I was seeking to gain experience in the area, not necessarily to show mastery or develop a publishable product. This lead to developing in a "code now, fix later" manner, featuring many iteraction cycles as I tried to include new theories or concepts as we discussed them in class.
+
+Video on a VR playtesting session [can be viewed here](https://www.youtube.com/watch?v=k6NbXZxOXsc) or you can play a Non-VR version of the game yourself
