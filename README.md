@@ -1,6 +1,11 @@
 # Agent 967: A VR Evidence Disposal Game
 ## [Play Now (Non-VR)](https://jwcain.github.io/Agent967/)
-## [VR Playtesting Footage](https://www.youtube.com/watch?v=k6NbXZxOXsc) 
+## [VR Playtesting Footage](https://www.youtube.com/watch?v=k6NbXZxOXsc)
+## Author
+- Justin W. Cain 
+- @AffinityForFun
+- jwcain@mtu.edu
+- [Portfolio](https://jwcain.github.io/Portfolio/)
 ## Pitch
 You work for the Super Secret Service. Triple-S, as it is called, is an elite and dangerous group; responsible for espionage and heroism all over the world. Their Agents are known for being glamorous, seductive, charming, smart, good-looking, respectable parents, and always on time.
 
