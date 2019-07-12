@@ -1,4 +1,5 @@
 # Agent 967: A VR Evidence Disposal Game
+![Agent967 Screenshot](/Agent967.png)
 ## [Play Now (Non-VR)](https://jwcain.github.io/Agent967/)
 ## [VR Playtesting Footage](https://www.youtube.com/watch?v=k6NbXZxOXsc)
 ## Author
